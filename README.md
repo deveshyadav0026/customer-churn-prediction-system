@@ -84,7 +84,7 @@ customer-churn-prediction-system/
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard](churn_dashboard_screenshot.png)
+![Dashboard](dashboard%20screenshot.png)
 
 ---
 
