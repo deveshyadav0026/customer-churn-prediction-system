@@ -48,7 +48,7 @@ selected_category = st.sidebar.selectbox("Preferred Order Category", ["Laptop & 
 
 
 columns = joblib.load("columns.pkl")
-input_data = pd.DataFrame(columns=columns)
+input_data = pd.DataFrame([[0]*len(columns)],columns=columns)
 
 input_data.loc[0, 'Tenure'] = tenure
 input_data.loc[0, 'WarehouseToHome'] = warehouse_to_home
