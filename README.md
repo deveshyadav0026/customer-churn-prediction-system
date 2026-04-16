@@ -84,7 +84,7 @@ customer-churn-prediction-system/
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard](E:\projects\Customer churn prediction\dashboard screenshot.png)
+![Dashboard](churn dashboard screenshot.png)
 
 ---
 
