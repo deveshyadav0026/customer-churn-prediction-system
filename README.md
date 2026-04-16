@@ -43,17 +43,14 @@ This project helps businesses:
 ## 📂 Project Structure
 customer-churn-prediction-system/
 │
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebook (EDA + Model)
-├── app/ # Streamlit application
-├── sql/ # SQL business queries
-├── powerbi/ # Dashboard file
-├── model/ # Saved model and columns
-├── images/ # Dashboard screenshots
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+- data/ # Raw and cleaned datasets
+-  notebooks/ # Jupyter notebook (EDA + Model)
+-  app/ # Streamlit application
+-  ql/ # SQL business queries
+-  powerbi/ # Dashboard file
+-  model/ # Saved model and columns
+-  images/ # Dashboard screenshots
+-  README.md
 
 
 ---
